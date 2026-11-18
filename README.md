@@ -1,4 +1,11 @@
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=max-konin&layout=compact&theme=radical&count_private=true&langs_count=8)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended"><img height="180" src="https://github-stats-extended.vercel.app/api?username=max-konin&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" /></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=max-konin&layout=compact&theme=radical&count_private=true&langs_count=8" alt="Top Langs" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com/?user=max-konin&theme=radical" alt="GitHub Streak" /></a>
+</p>
 
 <!--
 **max-konin/max-konin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
