@@ -21,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=max-konin&show_icons=true&theme=radical&count_private=true&include_all_commits=true
+          options: username=max-konin&show_icons=true&hide_rank=true&theme=radical&count_private=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
