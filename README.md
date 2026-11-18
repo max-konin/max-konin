@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended"><img height="180" src="https://github-stats-extended.vercel.app/api?username=max-konin&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" /></a>
-  <a href="https://github.com/stats-organization/github-stats-extended"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=max-konin&layout=compact&theme=radical&count_private=true&langs_count=8" alt="Top Langs" /></a>
+  <a href="https://github.com/stats-organization/github-readme-stats-action"><img height="180" src="./profile/stats.svg" alt="GitHub Stats" /></a>
+  <a href="https://github.com/stats-organization/github-readme-stats-action"><img height="180" src="./profile/top-langs.svg" alt="Top Langs" /></a>
 </p>
 
 <p align="center">
