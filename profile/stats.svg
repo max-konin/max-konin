@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Max Konin&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  : 5306, Total PRs: 1285, Total Issues: 72, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  : 5308, Total PRs: 1287, Total Issues: 72, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.14964188585041;
+        stroke-dashoffset: 78.14817503064579;
       }
     }
   
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >3</text>
     </g>
   </g>
     </svg>
